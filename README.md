@@ -3,6 +3,8 @@
 A 3D dungeon game centered around light-based mechanics and environmental puzzles.
 
 ## 📸 Showcase
+
+<!-- TODO replace with video for sounds -->
 <img src="RogueLight_compressed.gif" width="427" height="240"/>
 
 <!-- More videos can be found here: https://drive.google.com/drive/folders/1YjgKpTpVWSBqF3JDTeNMjnj8DorBQeZq?usp=sharing -->
