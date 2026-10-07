@@ -3,10 +3,12 @@
 A 3D dungeon game centered around light-based mechanics and environmental puzzles.
 
 ## 📸 Showcase
+<!-- <video src="https://github.com/user-attachments/assets/ccd47043-46f7-4a52-acb6-719ba6b4fffe.mp4"></video>
+Music: "Maze Forest (Lost Woods)" - The Legend of Zelda: Breath of the Wild
+Composed by Manaka Kataoka, Yasuaki Iwata & Hajime Wakai, © Nintendo 
+Used in the original student project; all rights to the music belong to their respective rights holders. -->
 
-<video src="https://github.com/user-attachments/assets/ccd47043-46f7-4a52-acb6-719ba6b4fffe.mp4"></video>
-
-<!-- <img src="RogueLight_compressed.gif" width="427" height="240"/> -->
+<img src="RogueLight_compressed.gif" width="427" height="240"/>
 <!-- More videos can be found here: https://drive.google.com/drive/folders/1YjgKpTpVWSBqF3JDTeNMjnj8DorBQeZq?usp=sharing -->
 
 ## Summary
